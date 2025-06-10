@@ -1,6 +1,6 @@
 # Uncover
 
-**Self-awareness as a Service** - A voice-powered AI companion that helps you discover your true intentions and motivations through natural conversation.
+**Self-awareness as a Service**, a voice-powered AI companion that helps you discover your true intentions and motivations through natural conversation.
 
 🔗 **Live Demo**: https://uncover-nine.vercel.app/
 
