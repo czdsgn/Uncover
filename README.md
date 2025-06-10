@@ -4,6 +4,8 @@ Self-awareness as a Service, a voice AI companion that helps you discover your t
 
 🔗 **Live Demo**: https://uncover-nine.vercel.app/
 
+💬 **Conversation Video**: https://drive.google.com/file/d/17zz1KFHpV1bhEESIQnZrB2ogRKlbYsH4/view?usp=sharing
+
 ## What is Uncover?
 
 Instead of fulfilling your surface-level desires, Uncover asks deeper questions to help you understand *why* you want what you want. Through 3-4 conversational exchanges, it guides you from "what you think you want" to "what you actually need."
